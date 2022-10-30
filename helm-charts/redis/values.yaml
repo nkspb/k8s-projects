@@ -1,0 +1,5 @@
+redis:
+  replicas: 1
+limits:
+  memory: 2048M
+  cpu: 0.2
