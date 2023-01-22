@@ -1,1 +1,1 @@
-Express-app using mongodb database
+Express-app using MongoDB database
